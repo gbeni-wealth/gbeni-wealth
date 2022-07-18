@@ -1,0 +1,99 @@
+html {
+    background: #e6e9e9;
+    background-image: linear-gradient(90deg, rgb(136, 85, 25) 10%, rgb(75, 109, 109) 100%);
+    -webkit-font-smoothing: antialiased;
+}
+
+.welcome{
+    color:rgba(255, 250, 240, 0.46);
+    font-size: 18px;
+    word-spacing: 150px;
+}
+a{
+    color:rgba(255, 250, 240, 0.46);
+}
+ 
+h1, h2, p, h4, h3 {
+  text-align: center;
+}
+
+.est {
+    color: #9b8a6a
+}
+
+.message{
+    margin-right: auto;
+    margin-left: auto;
+    width: 85%;
+    background: transparent;
+   box-shadow: 0 0 2px rgb(201, 36, 36, 0.06);
+   margin: 0.;
+   max-width: 800px;
+   padding: 0em 0em 0.1em;
+   background-color:#fffcf0;
+  
+    
+}
+
+h1{
+    color:#986d3a;
+    font-family: cursive;
+    font: Veranda
+}
+
+h2{
+    color:#67543d;
+    font-family: cursive;
+    font: Veranda  
+}
+
+h3{ color: #572806;
+    font-family: cursive
+}
+
+h4{
+    color:rgba(47, 37, 24, 0.7);
+    font-family:inherit;
+    font: Veranda  
+}
+
+.available{
+   margin-right: auto;
+   margin-left: auto;
+   width: 85%;
+   background: transparent;
+   box-shadow: 0 0 2px rgb(201, 36, 36, 0.06);
+   margin: 0.;
+   max-width: 800px;
+   padding: 0em 0em 0.1em;
+   background-image: linear-gradient(90deg, rgb(136, 85, 25) 10%, #fffcf0 100%); 
+}
+
+ul{
+    font-size: 20px;
+    font-family:monospace;
+    text-align: right;
+}
+
+footer{
+    color:rgba(255, 250, 240, 0.34);
+    font-family: cursive;
+    font-size: 12px
+}
+.order{
+    margin-left: auto;
+    margin-right: auto;
+    margin: 0.;
+    width: 85%;
+    max-width: 800px;
+    padding: 0em 0em 0.1em;
+    background: transparent;
+    background-color: #9b8a6a
+}
+
+.thanks{
+    margin-left: auto;
+    margin-right: auto;
+    width: 85%;
+    max-width: 800px;
+    background: transparent;
