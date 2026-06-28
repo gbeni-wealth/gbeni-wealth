@@ -29,4 +29,4 @@ Blockchain analytics · DaVinci Resolve / Fusion scripting · AI tooling · Solo
 
 ## 📫 Let's connect
 
-Open to collabs, freelance work, and Web3 opportunities. Find me on [Twitter/X](#) or drop me a message.
+Open to collabs, freelance work, and Web3 opportunities. Find me on [Twitter/X](x.com/gbeni_wealth) or drop me a message.
