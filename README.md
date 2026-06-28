@@ -9,7 +9,7 @@ Computer Science graduate (Rivers State University, '25) building at the interse
 **[Templavi](https://templavi.com)** — an AI-powered platform that converts text descriptions into DaVinci Resolve/Fusion video templates (`.setting` / `.drfx`). Think of it as a Figma-to-component pipeline, but for motion graphics editors.
 
 - Python · FastAPI · Supabase · Cloudflare R2
-- 14 Fusion node types, two-stage validator, DAG-based node layout engine
+- 30+ Fusion node types, two-stage validator, DAG-based node layout engine
 
 ---
 
